@@ -8,4 +8,4 @@ The data used is from the Standford Car Dataset: https://www.kaggle.com/datasets
 
 Data is 16,185 images classified into 196 classes of cars with a 50:50 split of training and testing data.
 
-Adjusted batch size, amount of epochs, randomized data augmentations, froze layers of the model, added different layers, tried different learning rates, and experimented with different pre-trained models such as VGG-16 and MobileNet to maximize accuracy of the model.
+Adjusted batch size, changed amount of epochs, randomized data augmentations, froze layers of the model, added different layers, tried different learning rates, and experimented with different pre-trained models such as VGG-16 and MobileNet to maximize the accuracy of the model.
